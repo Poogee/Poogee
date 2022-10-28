@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a linux enthusiast, CS student and a passionate developer in the future. I enjoy system programming and math. Not afraid of ML.</p>
+<p align="left">I am a linux enthusiast, CS student and a passionate developer in the future. I enjoy system programming and math. Not afraid of ML</p>
 
 ###
 
