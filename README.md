@@ -1,1 +1,1 @@
-k
+free(malloc(sizeof(int)))
